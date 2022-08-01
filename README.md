@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nishant1kr
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python and machine learning
+- 👀 I’m interested in Python Programming
+- 🌱 I’m currently learning OpenCV and Python
 - 💞️ I’m looking to collaborate on python projects
 
 <!---
